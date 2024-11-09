@@ -1,5 +1,5 @@
 # Currency Converter Application
-by [SURYA PRAKASH VELLINGIRI]
+by SURYA PRAKASH VELLINGIRI
 
 Welcome to the Currency Converter Application! This project is a simple desktop application to help users convert between various currencies with real-time exchange rates, display current rates, and visualize currency data.
 
@@ -25,7 +25,7 @@ Before running the application, make sure you have the following tools and libra
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/currency-converter.git
+   git clone https://github.com/surya182003/currency-converter.git
    cd currency-converter
 
 2. Create a virtual environment (optional but recommended):
@@ -62,6 +62,3 @@ Contributions to this project are welcome! If you find any issues or have improv
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
-> **Note**: Replace `yourusername` with your GitHub username and add your name where indicated.
